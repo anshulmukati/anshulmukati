@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshulmukati
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning pursung course of data science from IBM on coursera
+- 🌱 I am a data analyst learning about how to get the best from data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my emailid is anshulmukati43@gmail.com
 
